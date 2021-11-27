@@ -1,0 +1,12 @@
+10
+Abacate
+Abacaxi
+Amora
+Acerola
+Banana
+Carambola
+Goiaba
+Jabuticaba
+Laranja
+Melancia
+
